@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Github Pages 101
 ---
+# Day 1
